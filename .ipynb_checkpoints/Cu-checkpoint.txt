@@ -1,7 +1,5 @@
-number of plates, thickness (mm), Net area, error, live time
-0, 0, 0, 0
+thickness (mm),Net area,error,live time
 4.7, 795837, 892, 74.36
 4.8, 657234, 810, 87.50
 4.8, 538662, 733, 100.82
 4.5, 456244, 675, 111.28
-4.5, 0, 0, 0
